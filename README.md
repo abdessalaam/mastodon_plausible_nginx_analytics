@@ -11,7 +11,7 @@ You could also replace `</head>` if you prefer to load the script sooner.
 One of the strengths of mastodon and FOSS in general is enhanced privacy and less tracking. However, nstance owners might use some analytics to track the performance and security of their servers, for example in case of spikes of traffic, unusual number of password reset attempts etc.
 Using Google Analytics is out of the question, on the base of principle, but there are much more respectful ways of providing analytics. 
 
-Plausible calls themselves _Simple and privacy-friendly_ so I opted to use it.
+[Plausible](https://github.com/plausible/analytics) calls themselves _Simple and privacy-friendly_ and the interface is great, so I opted to use it.
 
 Since mastodon out of the box doesn't provide a way to inject a js snippet (used for analytics), at the moment only allowing [custom css](https://github.com/bpawel-bclub/mastodon_aurora), I had to find another way and this nginx filter proved to work.
 
