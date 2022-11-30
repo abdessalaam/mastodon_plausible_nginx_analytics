@@ -6,6 +6,8 @@ You could also replace `</head>` if you prefer to load the script sooner.
 
 ## A note about Mastodon and analytics
 
+### Important: amend your mastodon instance's privacy policy if applicable, when adding analytics
+
 One of the strengths of mastodon and FOSS in general is enhanced privacy and less tracking. However, nstance owners might use some analytics to track the performance and security of their servers, for example in case of spikes of traffic, unusual number of password reset attempts etc.
 Using Google Analytics is out of the question, on the base of principle, but there are much more respectful ways of providing analytics. 
 
