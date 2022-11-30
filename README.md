@@ -13,10 +13,10 @@ Plausible calls themselves _Simple and privacy-friendly_ so I opted to use it.
 
 Since mastodon out of the box doesn't provide a way to inject a js snippet (used for analytics), at the moment only allowing [custom css](https://github.com/bpawel-bclub/mastodon_aurora), I had to find another way and this nginx filter proved to work.
 
-## Creadits
-[Saman Baboli](https://samanbaboli.medium.com/modify-html-pages-on-the-fly-using-nginx-2e7a2d069086)
-[Plausible docs](https://plausible.io/docs/proxy/guides/nginx)
-[Nginx docs](http://nginx.org/en/docs/http/ngx_http_sub_module.html)
+## Credits
+- [Saman Baboli](https://samanbaboli.medium.com/modify-html-pages-on-the-fly-using-nginx-2e7a2d069086) 
+- [Plausible docs](https://plausible.io/docs/proxy/guides/nginx) 
+- [Nginx docs](http://nginx.org/en/docs/http/ngx_http_sub_module.html)
 
 ---
 
